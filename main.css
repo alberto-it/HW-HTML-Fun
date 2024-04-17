@@ -23,7 +23,7 @@ header, footer {
     background-color: lightgoldenrodyellow; 
     padding: 25px;
     text-align: center;
-    color: brown;
+    color: chocolate;
     border-radius: 25px;
 }
     
@@ -37,7 +37,7 @@ li {
 }
   
 .recipe { 
-    border: 1.5px solid brown; 
+    border: 1.5px solid chocolate; 
     padding: 0px 30px;
     border-radius: 25px;
 }
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-    color: brown; 
+    color: chocolate; 
     text-decoration:none;
 }
   
